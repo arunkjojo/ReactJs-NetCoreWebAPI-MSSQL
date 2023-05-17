@@ -1,0 +1,8 @@
+# files
+/WebApi/WebApi.sln
+/WebApi/WebApi.csproj
+
+# directories
+/WebApi/.vs/
+/WebApi/bin/
+/WebApi/obj/
